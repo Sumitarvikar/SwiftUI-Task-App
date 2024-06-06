@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4F1C16CD-149B-442E-A3BE-6B98632633B7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0C2EB328-51D7-4284-A964-8D42EC67E5DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D34C2250-1ACF-4D81-BFFD-5EC9125AA56C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI_MyApp/View/HomeView/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D34C2250-1ACF-4D81-BFFD-5EC9125AA56C - e9cb55a3d6e3040d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 () -&gt; SwiftUI_MyApp.ShowDetailsView in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: (&#x3c4;_1_0, &#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_MyApp.HomeView.body.getter : some"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/View/HomeView/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "239">
+               </Location>
+               <Location
+                  uuid = "D34C2250-1ACF-4D81-BFFD-5EC9125AA56C - e9cb55a3d6e3040d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 () -&gt; SwiftUI_MyApp.ShowDetailsView in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: (&#x3c4;_1_0, &#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_MyApp.HomeView.body.getter : some"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/View/HomeView/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "278">
+               </Location>
+               <Location
+                  uuid = "D34C2250-1ACF-4D81-BFFD-5EC9125AA56C - e9cb55a3d6e3040d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #7 () -&gt; SwiftUI_MyApp.ShowDetailsView in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: (&#x3c4;_1_0, &#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_MyApp.HomeView.body.getter : some"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/View/HomeView/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F6065D2-189B-4666-8E25-79C9163622B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "deleteTask(task:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F6065D2-189B-4666-8E25-79C9163622B0 - beaabb7b29d6a9c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI_MyApp.TaskViewModel.deleteTask(task: SwiftUI_MyApp.Task) -&gt; Swift.Bool"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "3F6065D2-189B-4666-8E25-79C9163622B0 - beaabb7b29d6a9c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI_MyApp.TaskViewModel.deleteTask(task: SwiftUI_MyApp.Task) -&gt; Swift.Bool"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "3F6065D2-189B-4666-8E25-79C9163622B0 - 3e28d5251146677a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI_MyApp.Task) -&gt; Swift.Bool in SwiftUI_MyApp.TaskViewModel.deleteTask(task: SwiftUI_MyApp.Task) -&gt; Swift.Bool"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "3F6065D2-189B-4666-8E25-79C9163622B0 - beaabb7b29d6a9c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI_MyApp.TaskViewModel.deleteTask(task: SwiftUI_MyApp.Task) -&gt; Swift.Bool"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78AE2A22-9CBF-48EF-89C8-431C130816CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "deleteTask(task:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "78AE2A22-9CBF-48EF-89C8-431C130816CB - beaabb7b29d6a90a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI_MyApp.TaskViewModel.deleteTask(task: SwiftUI_MyApp.Task) -&gt; Swift.Bool"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "78AE2A22-9CBF-48EF-89C8-431C130816CB - beaabb7b29d6a90a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUI_MyApp.TaskViewModel.deleteTask(task: SwiftUI_MyApp.Task) -&gt; Swift.Bool"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/ViewModel/TaskViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "524">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2BA5AE3-ED4D-458B-98F1-044481297186"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUI_MyApp/View/HomeView/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F2BA5AE3-ED4D-458B-98F1-044481297186 - 3b42cd6ffa420ccd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: (&#x3c4;_1_0, &#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_MyApp.HomeView.body.getter : some"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/View/HomeView/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  uuid = "F2BA5AE3-ED4D-458B-98F1-044481297186 - 3b42cd6ffa420ccd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: () -&gt; ()) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, initial: Swift.Bool, _: (&#x3c4;_1_0, &#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0)&gt; in SwiftUI_MyApp.HomeView.body.getter : some"
+                  moduleName = "SwiftUI_MyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Documents/Study/SwiftUI/SwiftUI_MyApp/SwiftUI_MyApp/View/HomeView/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "85">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
